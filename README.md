@@ -40,8 +40,8 @@
 6장 코루틴 빌더 | [허세라](https://www.notion.so/6-200b8d44b7e88064a92ef4ccc75ff151?pvs=4)
 7장 코루틴 컨텍스트 | [전태경](https://velog.io/@tony0327/7%EC%9E%A5-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
 8장 잡과 자식 코루틴 기다리기 | [이규봉](https://bong01.notion.site/8-201cd120dfd280059d95ce0a99190719?pvs=4)
-9장 취소
-10장 예외 처리
+9장 취소 | [이규봉](https://bong01.notion.site/9-208cd120dfd28086a4a1f7bd343b17b6)
+10장 예외 처리 | [허세라](https://www.notion.so/10-206b8d44b7e8803da981fdfb660dcbaf)
 11장 코루틴 스코프 함수
 12장 디스패처
 13장 코루틴 스코프 만들기
