@@ -42,9 +42,9 @@
 8장 잡과 자식 코루틴 기다리기 | [이규봉](https://bong01.notion.site/8-201cd120dfd280059d95ce0a99190719?pvs=4)
 9장 취소 | [이규봉](https://bong01.notion.site/9-208cd120dfd28086a4a1f7bd343b17b6)
 10장 예외 처리 | [허세라](https://www.notion.so/10-206b8d44b7e8803da981fdfb660dcbaf)
-11장 코루틴 스코프 함수
-12장 디스패처
-13장 코루틴 스코프 만들기
+11장 코루틴 스코프 함수 | [전태경](https://velog.io/@tony0327/%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%8A%A4%EC%BD%94%ED%94%84-%ED%95%A8%EC%88%98)
+12장 디스패처 | [배준형](https://cypress-eris-422.notion.site/12-20ebfdf0c2ee8012bce6d624eb12b26d?source=copy_link)
+13장 코루틴 스코프 만들기 | [허세라](https://create-something-from-nothing.tistory.com/610)
 14장 공유 상태로 인한 문제
 15장 코틀린 코루틴 테스트하기
 
