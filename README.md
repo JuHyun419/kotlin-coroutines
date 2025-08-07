@@ -71,9 +71,9 @@
 | ---- | ------ |
 26장 일반적인 사용 예제 | [전태경](https://www.notion.so/devchun01/26-24084e90f12680ef9d12e8c4253ab0ef)
 27장 코루틴 활용 비법 | [이규봉](https://bong01.notion.site/27-240cd120dfd2807a9e5eca0048900b37)
-28장 다른 언어에서의 코루틴 사용법 | 
-29장 코루틴을 시작하는 것과 중단 함수 중 어떤 것이 나을까? | 
-30장 모범 사례 | 
+28장 다른 언어에서의 코루틴 사용법 | [배은지](https://create-something-from-nothing.tistory.com/639)
+29장 코루틴을 시작하는 것과 중단 함수 중 어떤 것이 나을까? | [배준형](https://cypress-eris-422.notion.site/29-240bfdf0c2ee80cdb361eab04103fd5c?source=copy_link)
+30장 모범 사례 | [이주현](https://zzang9haha.notion.site/30-246c0385d36e80e29404eaddc96afb96?source=copy_link)
 
 ---
 
