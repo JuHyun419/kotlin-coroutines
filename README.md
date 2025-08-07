@@ -57,10 +57,10 @@
 16장 채널 | [배은지](https://create-something-from-nothing.tistory.com/613)
 17장 셀렉트 | [전태경](https://velog.io/@tony0327/%EC%85%80%EB%A0%89%ED%8A%B8)
 18장 핫 데이터와 콜드 데이터 소스 | [전태경](https://velog.io/@tony0327/%EC%85%80%EB%A0%89%ED%8A%B8)
-19장 플로우란 무엇인가? | 배준형
+19장 플로우란 무엇인가? | [배준형](https://cypress-eris-422.notion.site/19-22bbfdf0c2ee805c87cce43388ee1245)
 20장 플로우의 실제 구현 | [이주현](https://zzang9haha.notion.site/20-222c0385d36e80f982d9dbed6612935c)
 21장 플로우 만들기 | [이규봉](https://bong01.notion.site/21-224cd120dfd28059b56adf23da9d2d7a)
-22장 플로우 생명주기 함수
+22장 플로우 생명주기 함수 | [배준형](https://cypress-eris-422.notion.site/22-228bfdf0c2ee80668058cb33bd5e39a2)
 23장 플로우 처리 | [전태경](https://velog.io/@tony0327/%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%B2%98%EB%A6%AC)
 24장 공유플로우와 상태플로우
 25장 플로우 테스트하기 | [이주현](https://zzang9haha.notion.site/25-238c0385d36e80359ab5e17b8786b8d1?source=copy_link)
